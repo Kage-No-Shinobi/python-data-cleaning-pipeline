@@ -40,7 +40,7 @@ Open `notebooks/cleaning_walkthrough.ipynb` after installing the requirements. I
 
 ```bash
 python -m pip install -r requirements-dev.txt
-pytest
+PYTHONPATH=src python -m pytest
 ```
 
 ## Resume-ready description
