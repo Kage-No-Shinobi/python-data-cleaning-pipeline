@@ -1,0 +1,13 @@
+{
+  "rows_input": 120,
+  "duplicate_ids_removed": 4,
+  "missing_id_rows_removed": 0,
+  "invalid_date_rows_removed": 1,
+  "invalid_amount_rows_removed": 1,
+  "non_positive_amount_rows_removed": 1,
+  "invalid_type_rows_removed": 0,
+  "invalid_rows_removed": 3,
+  "categories_filled": 4,
+  "descriptions_filled": 2,
+  "rows_output": 113
+}
