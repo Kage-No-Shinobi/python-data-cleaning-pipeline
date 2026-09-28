@@ -1,0 +1,121 @@
+Transaction ID,Date,Description,Type,Amount,Currency,Category
+TX-0001,02/02/2026,Sample expense item 1,Expense,₦625.00,NGN,Food
+TX-0002,"Mar 03, 2026",Sample expense item 2,Expense,"₦1,000.00",NGN,Utilities
+TX-0003,2026-04-04,Sample expense item 3,Expense,"₦1,375.00",NGN,Supplies
+TX-0004,05/01/2026,Sample expense item 4,Expense,"₦1,750.00",NGN,Sales
+TX-0005,"Feb 06, 2026",Sample expense item 5,Expense,"₦2,125.00",NGN,Transport
+TX-0006,2026-03-07,Sample expense item 6,Expense,"₦2,500.00",NGN,Food
+TX-0007,08/04/2026,Sample income item 7,Income,"₦2,875.00",NGN,Utilities
+TX-0008,"Jan 09, 2026",Sample expense item 8,Expense,"₦3,250.00",NGN,
+TX-0009,2026-02-10,Sample expense item 9,Expense,"₦3,625.00",NGN,Sales
+TX-0010,11/03/2026,Sample expense item 10,Expense,,NGN,Transport
+TX-0011,"Apr 12, 2026",Sample expense item 11,Expense,"₦4,375.00",NGN,Food
+TX-0012,2026-01-13,,Expense,"₦4,750.00",NGN,Utilities
+TX-0013,14/02/2026,Sample expense item 13,Expense,"₦5,125.00",NGN,Supplies
+TX-0014,"Mar 15, 2026",Sample income item 14,Income,"₦5,500.00",NGN,Sales
+TX-0015,2026-04-16,Sample expense item 15,Expense,"₦5,875.00",NGN,Transport
+TX-0016,17/01/2026,Sample expense item 16,Expense,"₦6,250.00",NGN,Food
+TX-0017,"Feb 18, 2026",Sample expense item 17,Expense,"₦6,625.00",NGN,Utilities
+TX-0018,2026-03-19,Sample expense item 18,Expense,"₦7,000.00",NGN,Supplies
+TX-0019,20/04/2026,Sample expense item 19,Expense,"₦7,375.00",NGN,Sales
+TX-0020,"Jan 21, 2026",Sample expense item 20,Expense,"₦7,750.00",NGN,Transport
+TX-0021,2026-02-22,Sample income item 21,Income,"₦8,125.00",NGN,Food
+TX-0022,23/03/2026,Sample expense item 22,Expense,"₦8,500.00",NGN,Utilities
+TX-0023,"Apr 24, 2026",Sample expense item 23,Expense,"₦8,875.00",NGN,Supplies
+TX-0024,2026-01-25,Sample expense item 24,Expense,"₦9,250.00",NGN,Sales
+TX-0025,26/02/2026,Sample expense item 25,Expense,"₦9,625.00",NGN,Transport
+TX-0026,"Mar 27, 2026",Sample expense item 26,Expense,"₦10,000.00",NGN,Food
+TX-0027,2026-04-28,Sample expense item 27,Expense,"₦10,375.00",NGN,Utilities
+TX-0028,01/01/2026,Sample income item 28,Income,"₦10,750.00",NGN,Supplies
+TX-0029,"Feb 02, 2026",Sample expense item 29,Expense,"₦11,125.00",NGN,Sales
+TX-0030,2026-03-03,Sample expense item 30,Expense,"₦11,500.00",NGN,Transport
+TX-0031,04/04/2026,Sample expense item 31,Expense,"₦11,875.00",NGN,Food
+TX-0032,"Jan 05, 2026",Sample expense item 32,Expense,"₦12,250.00",NGN,Utilities
+TX-0033,2026-02-06,Sample expense item 33,Expense,"₦12,625.00",NGN,
+TX-0034,07/03/2026,Sample expense item 34,Expense,"₦13,000.00",NGN,Sales
+TX-0035,"Apr 08, 2026",Sample income item 35,Income,"₦13,375.00",NGN,Transport
+TX-0036,2026-01-09,Sample expense item 36,Expense,"₦13,750.00",NGN,Food
+TX-0037,10/02/2026,Sample expense item 37,Expense,"₦14,125.00",NGN,Utilities
+TX-0038,"Mar 11, 2026",Sample expense item 38,Expense,"₦14,500.00",NGN,Supplies
+TX-0039,2026-04-12,Sample expense item 39,Expense,"₦14,875.00",NGN,Sales
+TX-0040,13/01/2026,Sample expense item 40,Expense,"₦15,250.00",NGN,Transport
+TX-0041,"Feb 14, 2026",Sample expense item 41,Expense,"₦15,625.00",NGN,Food
+TX-0042,2026-03-15,Sample income item 42,Income,"₦16,000.00",NGN,Utilities
+TX-0043,16/04/2026,Sample expense item 43,Expense,"₦16,375.00",NGN,Supplies
+TX-0044,"Jan 17, 2026",Sample expense item 44,Expense,"₦16,750.00",NGN,Sales
+TX-0045,2026-02-18,Sample expense item 45,Expense,"₦17,125.00",NGN,Transport
+TX-0046,19/03/2026,Sample expense item 46,Expense,"₦17,500.00",NGN,Food
+TX-0047,"Apr 20, 2026",Sample expense item 47,Expense,"₦17,875.00",NGN,Utilities
+TX-0048,2026-01-21,Sample expense item 48,Expense,"₦18,250.00",NGN,Supplies
+TX-0049,22/02/2026,Sample income item 49,Income,"₦18,625.00",NGN,Sales
+TX-0050,"Mar 23, 2026",Sample expense item 50,Expense,"₦19,000.00",NGN,Transport
+TX-0051,2026-04-24,Sample expense item 51,Expense,"₦19,375.00",NGN,Food
+TX-0052,25/01/2026,Sample expense item 52,Expense,"₦19,750.00",NGN,Utilities
+TX-0053,"Feb 26, 2026",Sample expense item 53,Expense,"₦20,125.00",NGN,Supplies
+TX-0054,2026-03-27,Sample expense item 54,Expense,"₦20,500.00",NGN,Sales
+TX-0055,28/04/2026,Sample expense item 55,Expense,"₦20,875.00",NGN,Transport
+TX-0056,"Jan 01, 2026",Sample income item 56,Income,"₦21,250.00",NGN,Food
+TX-0057,2026-02-02,Sample expense item 57,Expense,"₦21,625.00",NGN,Utilities
+TX-0058,03/03/2026,Sample expense item 58,Expense,"₦22,000.00",NGN,Supplies
+TX-0059,"Apr 04, 2026",Sample expense item 59,Expense,"₦22,375.00",NGN,Sales
+TX-0060,2026-01-05,Sample expense item 60,Expense,"₦22,750.00",NGN,Transport
+TX-0061,06/02/2026,Sample expense item 61,Expense,"₦23,125.00",NGN,Food
+TX-0062,"Mar 07, 2026",Sample expense item 62,Expense,"₦23,500.00",NGN,Utilities
+TX-0063,2026-04-08,Sample income item 63,Income,"₦23,875.00",NGN,Supplies
+TX-0064,09/01/2026,Sample expense item 64,Expense,"₦24,250.00",NGN,Sales
+TX-0065,"Feb 10, 2026",Sample expense item 65,Expense,"₦24,625.00",NGN,Transport
+TX-0066,2026-03-11,Sample expense item 66,Expense,"₦25,000.00",NGN,Food
+TX-0067,12/04/2026,Sample expense item 67,Expense,"₦25,375.00",NGN,Utilities
+TX-0068,"Jan 13, 2026",Sample expense item 68,Expense,"₦25,750.00",NGN,Supplies
+TX-0069,2026-02-14,Sample expense item 69,Expense,"₦26,125.00",NGN,Sales
+TX-0070,not-a-date,Sample income item 70,Income,"₦26,500.00",NGN,Transport
+TX-0071,"Apr 16, 2026",Sample expense item 71,Expense,"₦26,875.00",NGN,Food
+TX-0072,2026-01-17,Sample expense item 72,Expense,"₦27,250.00",NGN,Utilities
+TX-0073,18/02/2026,Sample expense item 73,Expense,"₦27,625.00",NGN,Supplies
+TX-0074,"Mar 19, 2026",Sample expense item 74,Expense,"₦28,000.00",NGN,Sales
+TX-0075,2026-04-20,Sample expense item 75,Expense,"₦28,375.00",NGN,Transport
+TX-0076,21/01/2026,Sample expense item 76,Expense,"₦28,750.00",NGN,Food
+TX-0077,"Feb 22, 2026",Sample income item 77,Income,"₦29,125.00",NGN,
+TX-0078,2026-03-23,Sample expense item 78,Expense,"₦29,500.00",NGN,Supplies
+TX-0079,24/04/2026,Sample expense item 79,Expense,"₦29,875.00",NGN,Sales
+TX-0080,"Jan 25, 2026",Sample expense item 80,Expense,₦0.00,NGN,Transport
+TX-0081,2026-02-26,,Expense,"₦30,625.00",NGN,Food
+TX-0082,27/03/2026,Sample expense item 82,Expense,"₦31,000.00",NGN,Utilities
+TX-0083,"Apr 28, 2026",Sample expense item 83,Expense,"₦31,375.00",NGN,Supplies
+TX-0084,2026-01-01,Sample income item 84,Income,"₦31,750.00",NGN,Sales
+TX-0085,02/02/2026,Sample expense item 85,Expense,"₦32,125.00",NGN,Transport
+TX-0086,"Mar 03, 2026",Sample expense item 86,Expense,"₦32,500.00",NGN,Food
+TX-0087,2026-04-04,Sample expense item 87,Expense,"₦32,875.00",NGN,Utilities
+TX-0088,05/01/2026,Sample expense item 88,Expense,"₦33,250.00",NGN,Supplies
+TX-0089,"Feb 06, 2026",Sample expense item 89,Expense,"₦33,625.00",NGN,Sales
+TX-0090,2026-03-07,Sample expense item 90,Expense,"₦34,000.00",NGN,Transport
+TX-0091,08/04/2026,Sample income item 91,Income,"₦34,375.00",NGN,Food
+TX-0092,"Jan 09, 2026",Sample expense item 92,Expense,"₦34,750.00",NGN,Utilities
+TX-0093,2026-02-10,Sample expense item 93,Expense,"₦35,125.00",NGN,Supplies
+TX-0094,11/03/2026,Sample expense item 94,Expense,"₦35,500.00",NGN,Sales
+TX-0095,"Apr 12, 2026",Sample expense item 95,Expense,"₦35,875.00",NGN,Transport
+TX-0096,2026-01-13,Sample expense item 96,Expense,"₦36,250.00",NGN,Food
+TX-0097,14/02/2026,Sample expense item 97,Expense,"₦36,625.00",NGN,Utilities
+TX-0098,"Mar 15, 2026",Sample income item 98,Income,"₦37,000.00",NGN,
+TX-0099,2026-04-16,Sample expense item 99,Expense,"₦37,375.00",NGN,Sales
+TX-0100,17/01/2026,Sample expense item 100,Expense,"₦37,750.00",NGN,Transport
+TX-0101,"Feb 18, 2026",Sample expense item 101,Expense,"₦38,125.00",NGN,Food
+TX-0102,2026-03-19,Sample expense item 102,Expense,"₦38,500.00",NGN,Utilities
+TX-0103,20/04/2026,Sample expense item 103,Expense,"₦38,875.00",NGN,Supplies
+TX-0104,"Jan 21, 2026",Sample expense item 104,Expense,"₦39,250.00",NGN,Sales
+TX-0105,2026-02-22,Sample income item 105,Income,"₦39,625.00",NGN,Transport
+TX-0106,23/03/2026,Sample expense item 106,Expense,"₦40,000.00",NGN,Food
+TX-0107,"Apr 24, 2026",Sample expense item 107,Expense,"₦40,375.00",NGN,Utilities
+TX-0108,2026-01-25,Sample expense item 108,Expense,"₦40,750.00",NGN,Supplies
+TX-0109,26/02/2026,Sample expense item 109,Expense,"₦41,125.00",NGN,Sales
+TX-0110,"Mar 27, 2026",Sample expense item 110,Expense,"₦41,500.00",NGN,Transport
+TX-0111,2026-04-28,Sample expense item 111,Expense,"₦41,875.00",NGN,Food
+TX-0112,01/01/2026,Sample income item 112,Income,"₦42,250.00",NGN,Utilities
+TX-0113,"Feb 02, 2026",Sample expense item 113,Expense,"₦42,625.00",NGN,Supplies
+TX-0114,2026-03-03,Sample expense item 114,Expense,"₦43,000.00",NGN,Sales
+TX-0115,04/04/2026,Sample expense item 115,Expense,"₦43,375.00",NGN,Transport
+TX-0116,"Jan 05, 2026",Sample expense item 116,Expense,"₦43,750.00",NGN,Food
+TX-0004,05/01/2026,Sample expense item 4,Expense,"₦1,750.00",NGN,Sales
+TX-0024,2026-01-25,Sample expense item 24,Expense,"₦9,250.00",NGN,Sales
+TX-0064,09/01/2026,Sample expense item 64,Expense,"₦24,250.00",NGN,Sales
+TX-0094,11/03/2026,Sample expense item 94,Expense,"₦35,500.00",NGN,Sales
